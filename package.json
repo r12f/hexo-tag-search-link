@@ -1,0 +1,34 @@
+{
+  "name": "hexo-tag-search-link",
+  "version": "1.0.0",
+  "description": "A hexo tag plugin, which enables you to insert links to search specific content.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r12f/hexo-tag-search-link.git"
+  },
+  "keywords": [
+    "hexo",
+    "blog",
+    "tag",
+    "search",
+    "google",
+    "baidu",
+    "bing",
+    "yahoo",
+    "wiki",
+    "github"
+  ],
+  "author": {
+    "name": "r12f",
+    "email": "r12f.code@gmail.com"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/r12f/hexo-tag-search-link/issues"
+  },
+  "homepage": "https://github.com/r12f/hexo-tag-search-link#readme"
+}
