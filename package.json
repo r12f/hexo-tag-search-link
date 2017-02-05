@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-search-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hexo tag plugin, which enables you to insert links to search specific content.",
   "main": "lib/index.js",
   "scripts": {

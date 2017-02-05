@@ -12,6 +12,8 @@ $ npm install hexo-tag-search-link --save
 
 ## Usage
 
+To search the content, we can use search tag, which uses the default search engine, and search_with tag, which uses the specified search engine. Here are some examples:
+
 With default search engine:
 ```
 {% search "Hello World" %}
@@ -30,7 +32,7 @@ With specified search engine:
 {% search_with github_code generateSearchLink r12f/hexo-tag-search-link %}
 ```
 
-You can also specify what to show with search_alt and search_alt_with tags. The tag works almost exactly the same. The only difference is that they have an end tag. Here are 2 examples:
+We can also specify what to show with search_alt and search_alt_with tags. The tag works almost exactly the same. The only difference is that they have an end tag. Here are 2 examples:
 
 With alternated things to show:
 ```
